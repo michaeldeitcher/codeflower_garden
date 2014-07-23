@@ -14,6 +14,9 @@
 //= require jquery_ujs
 //= require foundation
 //= require turbolinks
+//= require d3
+//= require CodeFlower
+//= require dataConverter
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
